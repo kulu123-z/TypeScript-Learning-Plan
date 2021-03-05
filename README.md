@@ -193,6 +193,15 @@ After finishing each topic either create a blogpost topic or practice that topic
 
 ## Next Steps:
 
-After getting the hang of Typescript , we can pair it up with react or node etc
+After getting the hang of Typescript , we can pair it up with react or node. Below link has list of frameworks which you can combine typescript with.
+
+[Bootstraping Typescript with other frameworks](https://www.typescriptlang.org/docs/bootstrap)
+
+
+List of app ideas for your side projects
+
+1. [App Ideas](https://github.com/florinpop17/app-ideas)
+2. [Hackathon Ideas](https://hashnode.com/post/aws-amplify-project-ideas-for-the-hashnode-hackathon-ckl17sim502q8e7s1e47gg1z5) 
+
 
 Happy learning
