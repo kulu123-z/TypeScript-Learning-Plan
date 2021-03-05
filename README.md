@@ -31,6 +31,7 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 -   [Wikipedia: TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 -   [TypeScript Deep Dive: Why TypeScript](https://basarat.gitbooks.io/typescript/docs/why-typescript.html)
 -   [Wikipedia: Structural type system](https://en.wikipedia.org/wiki/Structural_type_system)
+- [Practice Typescript](https://exercism.io/tracks/typescript)
 
 ## Learning Plan
 
@@ -39,7 +40,7 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 		<tr>
 			<th>Goal</th>
 			<th>Time</th>
-			<th>Task/Projects/Activities</th>
+			<th>Relevant Resources</th>
 		</tr>
 	</thead>
 	<tbody>
