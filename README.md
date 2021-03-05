@@ -31,7 +31,7 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 -   [Wikipedia: TypeScript](https://en.wikipedia.org/wiki/TypeScript)
 -   [TypeScript Deep Dive: Why TypeScript](https://basarat.gitbooks.io/typescript/docs/why-typescript.html)
 -   [Wikipedia: Structural type system](https://en.wikipedia.org/wiki/Structural_type_system)
-- [Practice Typescript](https://exercism.io/tracks/typescript)
+-   [Practice Typescript](https://exercism.io/tracks/typescript)
 
 ## Learning Plan
 
@@ -44,6 +44,17 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 		</tr>
 	</thead>
 	<tbody>
+			<tr>
+			<td>
+				Typescript configuration <br>
+			</td>
+			<td>Half day</td>
+			<td>
+				<ul>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/tsconfig-json.html"> TypeScript Handbook</a></li>
+				</ul>
+			</td>
+		</tr>
 		<tr>
 			<td>Understand:
 				<ul>
@@ -178,7 +189,10 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 	</tbody>
 </table>
 
-
 After finishing each topic either create a blogpost topic or practice that topic in this site [exercism.io](https://exercism.io/tracks/typescript)
 
-Happy learning 
+## Next Steps:
+
+After getting the hang of Typescript , we can pair it up with react or node etc
+
+Happy learning
