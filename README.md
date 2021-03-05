@@ -177,3 +177,8 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 		</tr>
 	</tbody>
 </table>
+
+
+After finishing each topic either create a blogpost topic or practice that topic in this site [exercism.io](https://exercism.io/tracks/typescript)
+
+Happy learning 
